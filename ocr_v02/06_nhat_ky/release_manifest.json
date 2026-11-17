@@ -1,0 +1,171 @@
+{
+  "run_id": "v02_20261116",
+  "generated_at": "2026-11-17T10:45:19+07:00",
+  "overall_pass": true,
+  "checks": {
+    "1_manifest_and_pagmap": {
+      "pass": true,
+      "pdfs": 12,
+      "total_leaves": 4589,
+      "viet_mixed_leaves": 2479
+    },
+    "2_fresh_ocr_provenance": {
+      "pass": true,
+      "missing_raw": 0,
+      "bad_provenance": 0,
+      "engine_counts": {
+        "tesseract_best_psm3": 1307,
+        "vietocr_vgg_transformer": 1172
+      }
+    },
+    "3_clean_text_and_units": {
+      "pass": true,
+      "is_nfc": true,
+      "sentences_count": 35619,
+      "sentence_map_count": 35619,
+      "has_sep_in_sents": false,
+      "bad_roles_in_sents_count": 0,
+      "bad_tokens": [],
+      "preserved_tinh_nhiep_and_30350": true,
+      "all_12_books_exported": true
+    },
+    "4_benchmark_improvement": {
+      "pass": true,
+      "test_e1_tesseract_micro_cer": 0.04498,
+      "test_e4_routed_micro_cer": 0.02857,
+      "test_e0_unedited_subset_cer": 0.02356,
+      "test_e4_unedited_subset_cer": 0.01703
+    },
+    "5_audit_logs": {
+      "pass": true,
+      "missing_logs": []
+    }
+  },
+  "artifacts": {
+    "viet_txt": {
+      "path": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet.txt",
+      "sha256": "e081f79bb50d3ed8f7535bd83b80528209fee31bbc775317cf85f802dbeef598",
+      "bytes": 4520357
+    },
+    "viet_sentences_txt": {
+      "path": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_sentences.txt",
+      "sha256": "4ef180b0203f72e3448828b40fa9fb04140d7950a20788e9137e4a06b2d320d5",
+      "bytes": 4513573
+    },
+    "sentence_map_jsonl": {
+      "path": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\sentence_map.jsonl",
+      "sha256": "0692209ac34e23d83148e2dba466afadfb636f91bc4601e9fc288b500c7ad0e2",
+      "bytes": 22212443
+    }
+  },
+  "per_book_deliverables": [
+    {
+      "book_id": "dia_chi_loai_q5",
+      "primary_engine": "vietocr_vgg_transformer",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\dia_chi_loai_q5_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\dia_chi_loai_q5_units.jsonl",
+      "total_units": 754,
+      "align_units": 754,
+      "needs_review_units": 37
+    },
+    {
+      "book_id": "lthclc_q26_28_khoa_muc",
+      "primary_engine": "tesseract_best_psm3",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\lthclc_q26_28_khoa_muc_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\lthclc_q26_28_khoa_muc_units.jsonl",
+      "total_units": 1225,
+      "align_units": 1225,
+      "needs_review_units": 314
+    },
+    {
+      "book_id": "lthclc_q29_32_quoc_dung",
+      "primary_engine": "tesseract_best_psm3",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\lthclc_q29_32_quoc_dung_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\lthclc_q29_32_quoc_dung_units.jsonl",
+      "total_units": 1284,
+      "align_units": 1284,
+      "needs_review_units": 231
+    },
+    {
+      "book_id": "lthclc_q13_19_quan_chuc",
+      "primary_engine": "tesseract_best_psm3",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\lthclc_q13_19_quan_chuc_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\lthclc_q13_19_quan_chuc_units.jsonl",
+      "total_units": 2479,
+      "align_units": 2479,
+      "needs_review_units": 230
+    },
+    {
+      "book_id": "hvll_q1",
+      "primary_engine": "vietocr_vgg_transformer",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q1_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q1_units.jsonl",
+      "total_units": 1973,
+      "align_units": 1961,
+      "needs_review_units": 26
+    },
+    {
+      "book_id": "hvddc",
+      "primary_engine": "tesseract_best_psm3",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvddc_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvddc_units.jsonl",
+      "total_units": 2317,
+      "align_units": 2314,
+      "needs_review_units": 1508
+    },
+    {
+      "book_id": "hvxt",
+      "primary_engine": "tesseract_best_psm3",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvxt_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvxt_units.jsonl",
+      "total_units": 3030,
+      "align_units": 2886,
+      "needs_review_units": 2808
+    },
+    {
+      "book_id": "hvll_q3",
+      "primary_engine": "vietocr_vgg_transformer",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q3_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q3_units.jsonl",
+      "total_units": 3241,
+      "align_units": 3180,
+      "needs_review_units": 16
+    },
+    {
+      "book_id": "qtkb",
+      "primary_engine": "tesseract_best_psm3",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\qtkb_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\qtkb_units.jsonl",
+      "total_units": 7203,
+      "align_units": 7194,
+      "needs_review_units": 5413
+    },
+    {
+      "book_id": "hvll_q2",
+      "primary_engine": "vietocr_vgg_transformer",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q2_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q2_units.jsonl",
+      "total_units": 2890,
+      "align_units": 2832,
+      "needs_review_units": 12
+    },
+    {
+      "book_id": "hvll_q5",
+      "primary_engine": "vietocr_vgg_transformer",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q5_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q5_units.jsonl",
+      "total_units": 4079,
+      "align_units": 4055,
+      "needs_review_units": 43
+    },
+    {
+      "book_id": "hvll_q4",
+      "primary_engine": "vietocr_vgg_transformer",
+      "clean_txt": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q4_viet_clean.txt",
+      "units_jsonl": "D:\\projects\\NLP\\Project\\ocr_v02\\03_text_sach\\viet_per_book\\hvll_q4_units.jsonl",
+      "total_units": 5512,
+      "align_units": 5455,
+      "needs_review_units": 11
+    }
+  ]
+}

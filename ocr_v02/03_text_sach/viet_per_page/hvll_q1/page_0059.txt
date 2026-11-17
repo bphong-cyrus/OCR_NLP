@@ -1,0 +1,22 @@
+23: Tịch thu trả lại vật đút lót
+24: Người phạm tội tự thú trước pháp luật
+25: Phát giác hai tội một lúc, xử theo tội nặng
+26: Người phạm tội cùng trốn
+27: Quan đồng liêu phạm tội công
+28: Lầm lần trong việc công
+29: Cùng phạm tội nhưng chia thủ, tùng
+30: Người phạm tội bị phát giác lúc bỏ trốn
+31: Thân thuộc cùng chứa chấp che giấu
+32: Xử chém quân nhân làm phản
+33: Người ngoại quốc phạm tội
+34: Điều khoản của đạo luật có tên tội riêng
+35: Điều lệ tăng giảm tội
+36: Sự diễn đạt bằng câu: Xa giá của vua
+37: Sự diễn đạt bằng câu: ông bà trong vòng thân
+thuộc
+38: Sự diễn đạt bằng câu: Cùng đồng tội
+39: Sự diễn đạt bằng câu: Giám lâm Chủ thủ
+40: Sự diễn đạt bằng câu: Một ngày gồm 100 khắc
+41: Sự diễn đạt bằng câu: Đạo sĩ, nữ quan
+42: Xử tội theo luật mới ban
+43: Xử tội không có điều chính

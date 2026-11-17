@@ -1,0 +1,22 @@
+195: Giấu riêng những quân khí bị cấm
+196: Buông lơi cho linh nghỉ việc
+197: Công hầu dùng quan quân làm việc tư
+198: Linh tùng chinh, thủ ngự đào ngù
+199: Uu đài, thương giúp thân thuộc quân nhân
+200: Cấm ban đêm
+C - Đồn canh xét trên đất trên sông, có 5 điều:
+201: Lén vượt, giả mạo vượt qua trạm xét trên bộ,
+trên sông
+202: Trá mạo cấp giấy thông hành
+203: Trạm gác trên bộ, trên sông làm khó dề
+204: Xét hỏi bọn dọ thám
+205: Lén ra khỏi biên giới và trái lịnh cấm xuất
+khầu
+D - Chăn nuôi, chuồng trại, có 5 điều:
+206: Không huấn luyện tập dợt ngựa quan
+207: Đánh giết ngựa trâu
+208: Súc sản cắn đạp người ta
+209: Giấu bớt súc sản của quan sinh đẻ
+210: Lén mượn súc sản của quan.
+Đ - Bưu dịch, có 12 điều:
+211: Đưa tống công văn

@@ -1,0 +1,23 @@
+16
+175: Vũ khí của người túc vệ
+176: Cấm sung vào túc vệ quân người bị xử tội
+177: Đi băng ngang vào đám rước
+178: Cửa nơi hành cung
+179: Vượt qua thành vua
+180: Khóa cửa cấm
+B - Việc quân chính, có 20 điều:
+181: Tự tiện điều động quan quân
+182: Thân báo quân vụ
+183: Phi báo tình hình quân sự
+184: Tiết lộ đại sự của quân đội
+185: Đòi hỏi trữ đấy đủ quân khi cho lính bièn
+phòng
+186: Lảm lần và tai nạn trong quân sự
+187: Đi đánh giặc mà trẻ hạn
+188: Quân nhàn thế địch
+189: Chủ tướng không cố thủ
+190: Thả cho linh cướp bóc
+191: Không thao luyện quân sĩ
+192: Gây biến động cho lương dân
+193: Lén bán quân khi
+194: Bỏ phế phá hư quân khi

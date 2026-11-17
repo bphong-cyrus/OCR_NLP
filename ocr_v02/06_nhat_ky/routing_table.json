@@ -1,0 +1,66 @@
+{
+  "run_id": "v02_20261116",
+  "locked_at": "2026-11-16T20:46:39+07:00",
+  "routing_by_book": {
+    "dia_chi_loai_q5": {
+      "image_profile": "lowres_yellow_spread",
+      "primary_engine": "vietocr_vgg_transformer",
+      "audit_engine": "tesseract_best_psm3"
+    },
+    "lthclc_q26_28_khoa_muc": {
+      "image_profile": "highres_bitonal",
+      "primary_engine": "tesseract_best_psm3",
+      "audit_engine": "none"
+    },
+    "lthclc_q29_32_quoc_dung": {
+      "image_profile": "highres_bitonal",
+      "primary_engine": "tesseract_best_psm3",
+      "audit_engine": "none"
+    },
+    "lthclc_q13_19_quan_chuc": {
+      "image_profile": "highres_bitonal",
+      "primary_engine": "tesseract_best_psm3",
+      "audit_engine": "none"
+    },
+    "hvll_q1": {
+      "image_profile": "gray_faint_midcol",
+      "primary_engine": "vietocr_vgg_transformer",
+      "audit_engine": "tesseract_best_psm3"
+    },
+    "hvddc": {
+      "image_profile": "color_yellow_vignette",
+      "primary_engine": "tesseract_best_psm3",
+      "audit_engine": "none"
+    },
+    "hvxt": {
+      "image_profile": "highres_bitonal",
+      "primary_engine": "tesseract_best_psm3",
+      "audit_engine": "none"
+    },
+    "hvll_q3": {
+      "image_profile": "gray_faint_midcol",
+      "primary_engine": "vietocr_vgg_transformer",
+      "audit_engine": "tesseract_best_psm3"
+    },
+    "qtkb": {
+      "image_profile": "lowres_bitonal",
+      "primary_engine": "tesseract_best_psm3",
+      "audit_engine": "none"
+    },
+    "hvll_q2": {
+      "image_profile": "gray_faint_midcol",
+      "primary_engine": "vietocr_vgg_transformer",
+      "audit_engine": "tesseract_best_psm3"
+    },
+    "hvll_q5": {
+      "image_profile": "gray_faint_midcol",
+      "primary_engine": "vietocr_vgg_transformer",
+      "audit_engine": "tesseract_best_psm3"
+    },
+    "hvll_q4": {
+      "image_profile": "gray_faint_midcol",
+      "primary_engine": "vietocr_vgg_transformer",
+      "audit_engine": "tesseract_best_psm3"
+    }
+  }
+}

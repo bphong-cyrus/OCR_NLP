@@ -1,0 +1,22 @@
+9 - Tạp phạm, có 11 điều:
+341: Phá hư thân minh đình
+342: Cấp thuốc cho thợ thủ công, quân sĩ bịnh
+343: Đánh bạc
+344: Yêm, hoạn quan
+345: Phú thác việc công
+346: Việc tư và việc công
+347: Mất phòng bị lửa cháy
+348: Ném lửa cố ý đốt nhà cửa người ta
+349: Bày trò tạp kịch
+350: Trái lịnh
+351: Những việc không nên làm
+10 - Bắt câu lưu, có 8 điều:
+352: Người có nhiệm vụ sai bắt tội nhân
+353: Tội nhân chống cự khi bị bắt
+354: Tù trốn khỏi nhà giam và phản đối giam, đang
+trốn
+355: Tội lưu đồ bỏ trốn
+356: Giữ lại tù nhân tội đồ
+357: Coi tù không cẩn thận bị sẩy tù
+358: Biết tình mà chứa giấu tội nhân
+359: Thời hạn bắt giặc trộm

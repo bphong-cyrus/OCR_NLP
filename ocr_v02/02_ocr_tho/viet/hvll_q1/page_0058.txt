@@ -1,0 +1,23 @@
+Hoàng Việt luật lệ
+03:8 nghị
+04: Người được nghị phạm tội
+05: Ông bà người được nghị phạm tội
+06: Quan chức phạm tội
+07: Quan văn vò phạm tội công
+08: Quan văn vò phạm tội tư
+09: Quân nhân có sổ bộ phạm tội
+10: Người phạm tội được giảm nhiều lần
+11: Thôi làm quan đúng phép
+12: Phạm tội trước khi làm quan
+13: Đương sai mất tên gọi
+14: Gia thuộc của người tội lưu, tù
+15: Tội không được thà theo ân xá bình thường
+16: Trên đường đến chồ lưu, gặp dịp tha
+17: Người phạm tội còn phải ở nhà nuôi dưỡng cha
+mẹ
+18: Quan coi thiên văn phạm tội
+19: Thợ thủ công, nhạc sĩ cấu kết, phụ nữ phạm tội
+20: Người mắc tội lưu, đồ lại phạm tội
+21: Nhận giá tiền chuộc đối với người già, trẻ em,
+người tàn phế
+22: Khi phạm tội chưa già, tàn tật

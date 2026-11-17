@@ -1,0 +1,21 @@
+118: Du đi thu, nap
+119: Cửa hàng cần, thuê dịch gian dối
+120: Mạo chi lương quan
+121: Coi xét qua lại lương, tiền
+122: Thương khố không hay bị trộm
+123: Giữ chi lương, tiền và tự ý mở thư nhà nước
+124: Xuất, thu vật nhà nước trái phép
+125: Gây khó khăn trong việc thu chi
+126: Bạc, vàng gởi đi phải giữ đúng số tuổi
+127: Làm hư hao tài vật trong thương khố
+128: Chuyển, giải vật nhà nước
+129: Nghị xử phạt tội ăn đút lót không đúng mức
+130: Quản lí giữ gìn quan vật khi đang làm quan
+131: Giấu, chiếm gian đối gia sản bị nhập quan
+Đ - Hạn thuế, có 2 điều:
+132: Trốn thuế
+133: Thương buôn hàng hải trốn thuế hàng hóa
+E - Cho vay tiền, có 3 điều:
+134: Trái với việc cấm thủ lợi
+135: Tiêu xài tài sản mà mình nhận gởi của người
+136: Nhật được của rơi

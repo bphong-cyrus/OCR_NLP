@@ -1,0 +1,22 @@
+10
+61: Bỏ phế làm hư lịnh vua và ấn tín
+62: Dâng thư tâu việc phạm húy
+63: Việc nên tâu lại không tâu
+64: Đi sứ không về báo cáo lại
+65: Làm trề nãi văn thư quan
+66: Chiếu xét văn quyển
+67: Khám xét kĩ quyển tông (danh bộ)
+68: Thay thế đồng liêu phán án hoặc kí tên văn án
+69: Thêm bớt văn thư quan
+70: Khóa cất ấn tính
+71: Quên đóng ấn tín
+72: Tự tiện dùng loại ấn tín điều binh
+Mục lục về dân có 66 điều:
+A - Việc dân, có 11 điều:
+73: Thường dân lấy đăng bạ làm chỗ ổn định
+74: Giấu nhân khẩu không đăng bạ
+75: Cất riêng am viện và riêng độ Tăng Đạo
+76: Lập đích tử sái pháp
+77: Nhật nuôi con trai, con gái bơ vơ
+78: Thuế điền thổ và xâu dịch không đồng đều
+79: Sai khiến định phu không công bằng

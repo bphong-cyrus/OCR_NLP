@@ -1,0 +1,22 @@
+288: Đánh ông bà cha mẹ
+289: Thê thiếp cùng đánh với bà con bên chồng
+290: Đánh vợ, con của chồng trước
+291: Thê thiếp đánh cha mẹ của người chồng đã
+chết
+292: Ống bà bị đánh
+4 - Mắng nhiếc, có 8 điều:
+293: Mắng người
+294: Mắng sứ vua và bản quản trưởng quan
+295: Phụ tá chức vụ dưới quyền mắng trưởng quan
+296: Nô tì mắng gia trưởng
+297: Mắng tôn trưởng
+298: Mắng ông bà cha mẹ
+299: Thê thiếp mắng bà con tôn trường bên chồng
+300: Thê thiếp mắng cha mẹ của người chồng đà
+chết
+5 - Kiện thưa, có ll điều:
+301: Vượt kiện lên tòa cấp trên
+302: Gởi thư rơi giấu tên thưa tội của người
+303: Cáo trạng không được thụ lí
+304: Cho phép kiện thưa được đổi đi chỗ khác
+305: Vu cáo

@@ -1,0 +1,23 @@
+Hoàng Việt luật lệ
+80: Trốn lánh xâu dịch
+81: Đem bộ dân phu dịch và thợ về làm việc tư
+82: Chia gia tài gia đình khác danh bộ
+83: Ty ấu tự tiện dùng của cải
+B - Ruộng, nhà, có 10 điều:
+84: Dối giấu thuế ruộng
+85: Kiểm tra tai chỗ thất thoát thuế ruộng bởi thiên
+tai
+86: Ruộng đất của công thần
+87: Bán trộm ruộng, nhà
+88: Mua đất ruộng mà người ta giao quyền tài phán
+cho mình
+89: Bán ruộng, nhà có thế chuộc
+90: Cày cấy trộm nơi ruộng, vườn của quan, dân
+91: Bỏ phế làm hư dụng cụ cấy trồng
+92: Tự tiện ăn dưa quả trong ruộng, vườn người ta
+93: Riêng mượn xe thuyền của quan
+C - Hôn nhân, có 16 điều:
+94: Hôn nhân nam nữ
+95: Cầm cho mướn vợ và con gái
+96: Mất thứ bực thê và thiếp
+97: Đuổi rề và gả con gái

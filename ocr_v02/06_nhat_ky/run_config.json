@@ -1,0 +1,13 @@
+{
+  "run_id": "v02_20261116",
+  "created_at": "2026-11-16T19:34:54+07:00",
+  "timezone": "+07:00",
+  "omp_thread_limit": 1,
+  "workers_inventory": 8,
+  "workers_tesseract": 8,
+  "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+  "tessdata_best_sha256": "b6b49293d95d0b6dbd8780174627e82c75be957b6f4ed9862155540d6b00bb45",
+  "vietocr_vgg_transformer_sha256": "380512193a8b6cbf6fad80deacdc9b6939d10d473d199892fc6408d13775ea59",
+  "project_dir": "D:\\projects\\NLP\\Project\\data",
+  "v02_root": "D:\\projects\\NLP\\Project\\ocr_v02"
+}

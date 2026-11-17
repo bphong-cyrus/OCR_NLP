@@ -1,0 +1,22 @@
+Hoàng Việt luật lệ
+380: Xử tội dẫn luật lịnh
+381: Người ở tù tự nhận lỗi
+382: Trước khi được ân xá, xử tội không đúng
+383: Nghe được ân xá mà cố phạm
+384: Tù đổ không chịu làm việc
+385: Đàn bà phạm tội
+386: Tử tù phúc tâu chờ đáp
+387: Xử tội không đúng
+388: Lại điển thay người viết lời nhận tội
+Mục lục luật về cóng, có 10 điều:
+1 - Xây cất, có 6 điều:
+389: Tự tiện tạo tác
+390: Làng phí vào xây dựng không đủ tiền bù đắp
+391: Tạo tác không dúng phép
+392: Mạo phá các vật có giá trị
+393: Sửa sang kho lầm
+394: Quan lại hữu ti không đến quan sảnh
+2 - Đê điều, có 4 điều:
+395: Lén làm đê vờ
+396: Không sửa sang đê điều, sái lúc
+397: Xàm chiếm lòng lề đường

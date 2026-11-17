@@ -1,0 +1,24 @@
+run_id: v02_20261116
+timestamp_vn: 2026-11-16T19:34:54+07:00
+os: Windows-10-10.0.26200-SP0
+processor: Intel64 Family 6 Model 151 Stepping 2, GenuineIntel
+logical_cpus: 12
+gpu: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+torch_version: 2.6.0+cu124
+ram_total_gb: 27.71
+ram_avail_gb_at_start: 4.93
+python_executable: D:\projects\NLP\ocr_bench\.venv\Scripts\python.exe
+python_version: 3.10.0
+tesserocr_version: 2.11.0
+tesseract_engine: tesseract 5.5.3 |  leptonica-1.87.0 (Sep 12 2026, 16:48:27) [MSC v.1944 LIB Release x64] |   libgif 6.1.3 : libjpeg 10 : libpng 1.6.58 : libtiff 4.7.1 : zlib 1.3.2 : libwebp 1.6.0 : libopenjp2 2.5.4
+pymupdf_version: 1.28.2
+opencv_version: 5.0.0
+numpy_version: 2.2.6
+pillow_version: 12.3.0
+openpyxl_version: 3.1.5
+tessdata_best_vie_path: D:\projects\NLP\ocr_bench\tessdata\best\vie.traineddata
+tessdata_best_vie_sha256: b6b49293d95d0b6dbd8780174627e82c75be957b6f4ed9862155540d6b00bb45
+tessdata_fast_vie_path: D:\projects\NLP\ocr_bench\tessdata\fast\vie.traineddata
+tessdata_fast_vie_sha256: 79df64caf7bcfb2a27df5042ecb6121e196eada34da774956995747636d5bfa1
+vietocr_vgg_transformer_weights: D:\projects\NLP\ocr_bench\weights\vgg_transformer.pth
+vietocr_vgg_transformer_sha256: 380512193a8b6cbf6fad80deacdc9b6939d10d473d199892fc6408d13775ea59

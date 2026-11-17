@@ -1,0 +1,23 @@
+26
+11 - Phán quyết án lịnh, có 29 điều:
+360: Tù phải cấm nhưng không giam cấm
+361: Cố xét cố khám người bình thường
+362: Cấm lâu dài
+363: Đối đãi tàn tệ với người ở tù
+364: Cho người tù dao nhọn để họ trốn thoát
+365: Giám tù dạy tù nhân phản đối làm khác lạ
+366: Đồ mặc, lương của tù
+367: Công thần nên cấm thân nhân đi xem
+368: Tử tù xúi người tự sát
+369: Già trẻ không khảo hỏi
+370: Xét án đình bỏ tù chờ đối chất
+371: Y cáo trạng xét án
+372: Người nguyên cáo xong việc không được thả về
+373: Người ở tù vu cáo chỉ chỏ kẻ khác
+374: Quan ti thêm bớt số tội nhân
+375: Biện minh oan uổng
+376: Hữu ti giết tù các bực
+377: Xét nghiệm chết vì bị thương, không đúng sự
+thật
+378: Giết phạt không đúng pháp
+379: Trưởng quan sai dùng người có tội

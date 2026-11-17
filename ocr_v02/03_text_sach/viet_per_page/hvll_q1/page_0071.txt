@@ -1,0 +1,22 @@
+249: Lấy công khai hay lấy cắp đều là ăn trộm
+250: Cạo bỏ chữ xâm
+2 - Nhân mạng, có 20 điều:
+251: Mưu giết người
+252: Mưu giết sứ nhà vua và bản quản quan trưởng
+253: Mưu giết ông bà cha mẹ
+254: Giết chết gian phu
+255: Mưu giết cha mẹ của người chồng cù
+256: Giết ba mạng người cùng một nhà
+257: Cắt những bộ phận sống của con người
+258: Nuôi chế những chất độc để giết người
+259: Đánh lộn và cố giết người
+260: Lấy đi y phục, đồ ăn của người
+261: Làm chết bị thương người bởi vui chơi, bởi lầm
+lỡ, bởi ngộ sát
+262: Chồng đánh chết thê thiếp có tội
+263: Giết cháu con và nô tì mưu cầu nhờ và người
+264: Bắn cung tên làm người bị thương
+265: Ngựa, xe làm người bị thương
+266: Thầy thuốc dở làm bị thương, chết người
+267: Gài cung bẩy làm bị thương chết người
+268: Dùng oai áp bức người đến chết

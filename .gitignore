@@ -1,0 +1,22 @@
+# Python virtual environment (5.3 GB - recreate via ocr_v02/requirements.txt)
+.venv/
+**/.venv/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Source PDFs (>100 MB each; hashed in ocr_v02/01_nguon/source_manifest.csv)
+data/
+*.pdf
+!Guideline.pdf
+
+# Model weights >100 MB (vgg_transformer.pth is 144.8 MB; auto-downloaded by vietocr on demand)
+ocr_v02/08_models/weights/
+*.pth
+*.pt
+*.onnx
+*.safetensors
+
+# Bulky raw Tesseract TSV/HOCR artifacts (146.8 MB; canonical raw .txt is kept in ocr_v02/02_ocr_tho/viet/)
+ocr_v02/02_ocr_tho/raw/

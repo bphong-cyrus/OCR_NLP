@@ -1,0 +1,23 @@
+306: Liên can đến người dưới mà phạm đến nghĩa
+cả
+307: Cháu con sái phạm lời răn dạy của ông bà
+308: Kẻ đang ở tù không được thưa kiện việc của
+người khác
+309: Xúi xiển người thưa kiện
+310: Quân nhân và dân thường hẹn nhau giải quyết
+thưa kiện
+311: Quan lại kiện gia nhân tố cáo mình
+6 - Nhận của đút lót, có 9 điều:
+312: Quan lại nhận của, tiền
+313: Bị buộc tội theo tang vật
+314: Nhận của tiền sau khi xong việc
+315: Quan lại được phép nhận tài vật
+316: Có việc dùng tiền của xin nhờ
+317: Đang làm quan mượn ép hàng hóa của cải của
+người
+318: Gia nhân xin xỏ
+319: Nhân tội công mà được giảm bớt
+320: Cất giữ chắc tang vật ăn trộm
+7 - Trá ngụy, có 11 điều:
+321: Làm dối chiếu lịnh vua
+322: Trá ngụy truyền chiếu vua

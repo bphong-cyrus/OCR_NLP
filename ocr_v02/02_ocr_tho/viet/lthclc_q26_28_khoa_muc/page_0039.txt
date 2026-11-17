@@ -1,0 +1,40 @@
+xa
+
+Khoa mục chí [II]
+
+43
+
+A. Lệ tiền khoán làm trường thi có khác nhau như sau :
+
+Mỗi nhà
+
+Tiền khoán
+
+Tên nhà và đồ vật Nhà .„| mấy Đô vật Ĩ
+mấy cái gian mấy cái | Quan | Tiền
+
+Nhà công đường thí viện 1 7 | | 42 0
+Nhà quan đề điệu 1 3 5 4
+Nhà quan giám thí 1 3 5 4
+Nhà quan thừa sứ 1 3 5 4
+Nhà quan tham chính 1 3 5 4
+Nhà quan hiến sứ 1 3 5 4
+Nhà quan tham nghị 1 3 5 4
+Nhà quan tả mạc 1 5 9 0
+Nhà tướng thần lại và quan 1 9 6 2
+viết bảng
+Nhà thu quyển và ghế chéo 1 3 6 15 0
+Nhà các quan giám khảo vài... 1 ch 9 5
+toả viện (trong có hai phòng)
+Nhà quan phúc khảo 1 7 12 6
+Nhà quan đồng khảo 1 14 25 2
+Nhà quan tuần xước 1 3 5 4
+Nhà giữ cửa 1 3 5.1.4
+Nhà quan hữu mạc 1 3 5 4
+Nhà nội ngoại trường 7 12 6
+Cột bảng, tấm bảng ở 20 0
+ngoại trường
+Lòng tre, thẻ tre và dây 3 0
+Rào thưa phên nhặt và cột ở 3 0
+nội ngoại trường |
+
